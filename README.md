@@ -2,6 +2,7 @@
 
 # Welcome to the second Boulder React Coding Night!
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/istrouse/Boulder-React-Coding-Night-2.svg?columns=all)](https://waffle.io/istrouse/Boulder-React-Coding-Night-2)
 
 ## Start
 * Fork this repo into your personal github account
